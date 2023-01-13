@@ -1,0 +1,65 @@
+.titulo{
+    font-family: 'Amatic SC';
+    font-size: 50px;
+}
+.titulo1{
+    font-family: 'Caveat';font-size: 30px; 
+}
+.gatitohotdogs{
+    border-radius:20px ;
+    height:500px ;
+    width: 400px;
+    border:4px dashed rgb(153, 109, 51);
+    margin-left: 50px;
+    margin-top: 20px;
+    display: inline-block;
+m 
+}
+body{
+    background-image: url(https://i.ibb.co/mS5Y2hn/fondo-de-pantalla-gratis-kawaii-aesthetic-rosa-1.png);
+    background-repeat: no-repeat ;
+    background-position-x: center;
+    background-position-y: center ;
+    background-size: cover;
+}
+.titulo2{
+    border-radius:20px ;
+    margin-left: 50px;
+    width: 1000px;
+    border:4px ridge rgb(153, 109, 51);
+    text-align: center;
+    font-family: 'Bad Script';font-size: 25px;
+}
+.gatitoconsueño{
+    border-radius:20px ;
+    height:500px ;
+    width: 400px;
+    border:5px dotted rgb(153, 109, 51);
+    margin-left: 50px;
+    display: inline-block;
+    font-family: 'Amatic SC';
+    font-size: 25px;
+}
+.sudtitulo{
+    font-family: 'Caveat';font-size: 30px; 
+}
+.boton{
+    margin-left: 30px;
+    border-bottom: 5px;
+    border-radius: 5px;
+    background-color: rgba(255, 99, 71, 0.623);
+    border: double rgb(250, 147, 50);
+    text-decoration: none;
+    font-family: 'Caveat';font-size: 35px; 
+    color: black;
+}
+.boton:hover{
+    margin-left: 30px;
+    border-bottom: 5px;
+    border-radius: 5px;
+    background-color: rgba(223, 126, 0, 0.678);
+    border: double rgb(250, 73, 50);
+    text-decoration: none;
+    font-family: 'Caveat';font-size: 35px; 
+    color: black;
+}
